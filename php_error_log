@@ -1,0 +1,63 @@
+[30-Jul-2022 20:54:39 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php:103
+Stack trace:
+#0 C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php(103): getimagesize('')
+#1 C:\xampp\htdocs\sistema POS vPhp8\vistas\modulos\usuarios.php(271): ControladorUsuarios::ctrCrearUsuario()
+#2 C:\xampp\htdocs\sistema POS vPhp8\vistas\plantilla.php(150): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\sistema POS vPhp8\controladores\plantilla.controlador.php(7): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema POS vPhp8\index.php(23): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 103
+[30-Jul-2022 21:08:25 Europe/Berlin] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 114
+[30-Jul-2022 21:08:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php:150
+Stack trace:
+#0 C:\xampp\htdocs\sistema POS vPhp8\vistas\modulos\usuarios.php(271): ControladorUsuarios::ctrCrearUsuario()
+#1 C:\xampp\htdocs\sistema POS vPhp8\vistas\plantilla.php(150): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\sistema POS vPhp8\controladores\plantilla.controlador.php(7): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\sistema POS vPhp8\index.php(23): ControladorPlantilla::ctrPlantilla()
+#4 {main}
+  thrown in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 150
+[30-Jul-2022 21:08:29 Europe/Berlin] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 114
+[30-Jul-2022 21:08:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php:150
+Stack trace:
+#0 C:\xampp\htdocs\sistema POS vPhp8\vistas\modulos\usuarios.php(271): ControladorUsuarios::ctrCrearUsuario()
+#1 C:\xampp\htdocs\sistema POS vPhp8\vistas\plantilla.php(150): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\sistema POS vPhp8\controladores\plantilla.controlador.php(7): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\sistema POS vPhp8\index.php(23): ControladorPlantilla::ctrPlantilla()
+#4 {main}
+  thrown in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 150
+[30-Jul-2022 21:08:35 Europe/Berlin] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 114
+[30-Jul-2022 21:08:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php:150
+Stack trace:
+#0 C:\xampp\htdocs\sistema POS vPhp8\vistas\modulos\usuarios.php(271): ControladorUsuarios::ctrCrearUsuario()
+#1 C:\xampp\htdocs\sistema POS vPhp8\vistas\plantilla.php(150): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\sistema POS vPhp8\controladores\plantilla.controlador.php(7): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\sistema POS vPhp8\index.php(23): ControladorPlantilla::ctrPlantilla()
+#4 {main}
+  thrown in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 150
+[30-Jul-2022 21:09:24 Europe/Berlin] PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 114
+[30-Jul-2022 21:09:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php:150
+Stack trace:
+#0 C:\xampp\htdocs\sistema POS vPhp8\vistas\modulos\usuarios.php(271): ControladorUsuarios::ctrCrearUsuario()
+#1 C:\xampp\htdocs\sistema POS vPhp8\vistas\plantilla.php(150): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\sistema POS vPhp8\controladores\plantilla.controlador.php(7): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\sistema POS vPhp8\index.php(23): ControladorPlantilla::ctrPlantilla()
+#4 {main}
+  thrown in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 150
+[30-Jul-2022 21:10:08 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php:103
+Stack trace:
+#0 C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php(103): getimagesize('')
+#1 C:\xampp\htdocs\sistema POS vPhp8\vistas\modulos\usuarios.php(271): ControladorUsuarios::ctrCrearUsuario()
+#2 C:\xampp\htdocs\sistema POS vPhp8\vistas\plantilla.php(150): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\sistema POS vPhp8\controladores\plantilla.controlador.php(7): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema POS vPhp8\index.php(23): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 103
+[30-Jul-2022 21:10:20 Europe/Berlin] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php:103
+Stack trace:
+#0 C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php(103): getimagesize('')
+#1 C:\xampp\htdocs\sistema POS vPhp8\vistas\modulos\usuarios.php(271): ControladorUsuarios::ctrCrearUsuario()
+#2 C:\xampp\htdocs\sistema POS vPhp8\vistas\plantilla.php(150): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\sistema POS vPhp8\controladores\plantilla.controlador.php(7): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sistema POS vPhp8\index.php(23): ControladorPlantilla::ctrPlantilla()
+#5 {main}
+  thrown in C:\xampp\htdocs\sistema POS vPhp8\controladores\usuarios.controlador.php on line 103
